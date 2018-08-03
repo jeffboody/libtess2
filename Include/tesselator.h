@@ -130,7 +130,7 @@ enum TessOption
 };
 
 typedef float TESSreal;
-typedef int TESSindex;
+typedef short TESSindex;
 typedef struct TESStesselator TESStesselator;
 typedef struct TESSalloc TESSalloc;
 
